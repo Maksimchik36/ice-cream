@@ -1,4 +1,4 @@
-// ВАРИАНТ № 1 РАБОТАЕТ ДЛЯ НЕСКОЛЬКИХ КНОПОК С НЕСКОЛЬКИМИ МОДАЛКАМИ
+// ВАРИАНТ № 1 РАБОТАЕТ ДЛЯ НЕСКОЛЬКИХ КНОПОК С НЕСКОЛЬКИМИ МОДАЛКАМИ !
 document.addEventListener('DOMContentLoaded', function() {
    var modalButtons = document.querySelectorAll('.js-open-modal'),
        overlay      = document.querySelector('.overlay'),
