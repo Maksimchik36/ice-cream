@@ -6,7 +6,7 @@
   "homepage": "https://Maksimchik36.github.io/ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /100-natural/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
